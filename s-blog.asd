@@ -1,6 +1,6 @@
 
 (asdf:defsystem :s-blog
-  :description "s-blog helps creating static websites hosted on Amazon S3"
+  :description "s-blog helps creating static websites, possibly hosted on Amazon S3"
   :version "0.0.2"
   :author "Crackbot <thecrackbot@gmail.com>"
   :licence "The MIT License (MIT)"

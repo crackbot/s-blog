@@ -1,7 +1,9 @@
 
 (in-package :s-blog)
 
-(defsection @main (:title "Main")
+(defsection @main-manual (:title "Main")
+  (s-blog asdf:system)
+  
   "Very opinionated, small library, to create static websites."
   (@api section)
   (@s3-sync section)
