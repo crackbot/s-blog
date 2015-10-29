@@ -1,4 +1,4 @@
-# Main
+# Very opinionated, small library, to create static websites.
 
 ###### \[in package S-BLOG\]
 ## s-blog ASDF System Details
@@ -7,8 +7,6 @@
 - Description: s-blog helps creating static websites, possibly hosted on Amazon S3
 - Licence: The MIT License (MIT)
 - Author: Crackbot <thecrackbot@gmail.com>
-
-Very opinionated, small library, to create static websites.
 
 ## s-blog API
 
